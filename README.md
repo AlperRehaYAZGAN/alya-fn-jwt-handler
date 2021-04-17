@@ -73,7 +73,7 @@ Serverless functions make development and testing easier. Almost every project, 
 1. Clone the repo:
    ```sh
    git clone https://github.com/AlperRehaYAZGAN/alya-fn-jwt-handler.git  
-   cd alya-fn-image-optimizer
+   cd alya-fn-jwt-handler
    ```
 2. Build docker image:
    ```sh
