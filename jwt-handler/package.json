@@ -1,0 +1,16 @@
+{
+  "name": "alya-fn-jwt-handler",
+  "version": "1.0.0",
+  "description": "AlyaFn JWT Handler Serverless Function",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Alper Reha YAZGAN <alper@yazgan.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

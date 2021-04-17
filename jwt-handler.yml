@@ -1,0 +1,10 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  jwt-handler:
+    lang: node14
+    handler: ./jwt-handler
+    image: jwt-handler:1.0.0
+
